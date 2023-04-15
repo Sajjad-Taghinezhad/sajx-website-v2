@@ -1,0 +1,55 @@
+baseURL: "https://sajx.net/"
+title: SajX.Net
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: SajX.Net
+  description: "SajX.Net Personal Website"
+  author: SajX
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon.ico"
+    favicon32x32: "/favicon.ico"
+
+  label:
+    text: "SajX.net"
+    icon: /logo.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Hey 👋 I'm SajX (Sajjad Taghinezhad)"
+    tagline: "Developer & Security Engineer"
+    description: "Develop secure applications and implement security controls to protect systems"
+    imageUrl: "/profile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: profile image
+
+  socialIcons:
+    - name: twitter
+    - name: stackoverflow
+    - name: github
+    - name: ctftime
+    - name: gitlab
+    - name: reddit
+    - name: spotify
+    - name: medium
+    - name: telegram
+    - name: hackthebox
+    - name: discord
+    - name: hackerrank
+    - name: hackerone
+    - name: instagram
+    - name: paypal
+    - name: youtube
+

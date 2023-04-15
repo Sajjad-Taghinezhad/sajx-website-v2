@@ -1,0 +1,5 @@
+node_modules
+.venv
+.DS_Store
+hugo_stats.json
+.hugo_build.lock
