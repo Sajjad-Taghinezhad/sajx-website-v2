@@ -37,19 +37,34 @@ params:
 
   socialIcons:
     - name: twitter
+      url: https://twitter.com/S_Taghinezhad
     - name: stackoverflow
+      url: https://stackoverflow.com/users/12057440/sajjad-taghinezhad
     - name: github
+      url: https://github.com/Sajjad-Taghinezhad
     - name: ctftime
+      url: https://ctftime.org/user/54082
     - name: gitlab
-    - name: reddit
+      url: https://gitlab.com/Sajjad-Taghinezhad
     - name: spotify
+      url: https://open.spotify.com/user/2af83tdgmyv7zsbqb657es91g
     - name: medium
+      url: https://medium.com/@sajx
     - name: telegram
+      url: https://sajjad_taghinezhad.t.me
     - name: hackthebox
-    - name: discord
+      url: https://app.hackthebox.com/users/1358375
     - name: hackerrank
+      url: https://www.hackerrank.com/sajjadx
     - name: hackerone
+      url: https://hackerone.com/sajx
     - name: instagram
-    - name: paypal
-    - name: youtube
+      url: https://instagram.com/sajjad.taghinezhad/
+    - name: linkedin
+      url: https://www.linkedin.com/in/sajjad-taghinezhad/
+    # - name: discord
+    #   url: discord://sajx.net
+    # - name: paypal
+    #   url: 
+    # - name: youtube
 
