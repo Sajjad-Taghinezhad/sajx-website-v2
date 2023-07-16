@@ -62,6 +62,8 @@ params:
       url: https://instagram.com/sajjad.taghinezhad/
     - name: linkedin
       url: https://www.linkedin.com/in/sajjad-taghinezhad/
+    - name: codewars
+      url: https://www.codewars.com/users/SajX
     # - name: discord
     #   url: discord://sajx.net
     # - name: paypal
