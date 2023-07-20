@@ -9,6 +9,14 @@ minify:
   disableXML: true
   minifyOutput: true
 
+menu:
+    main:
+    - name: Blog
+      url: /blog
+      weight: 10
+    - name: Tools 
+      url: https://tools.sajx.net
+
 params:
   title: SajX.Net
   description: "SajX.Net Personal Website"
@@ -24,6 +32,9 @@ params:
     icon: /logo.png
     iconHeight: 35
 
+
+
+
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
@@ -34,6 +45,9 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile image
+    buttons:
+      - name: Mail me
+        url: mailto:me@sajx.net
 
   socialIcons:
     - name: twitter
