@@ -50,37 +50,32 @@ params:
         url: mailto:me@sajx.net
 
   socialIcons:
-    - name: twitter
-      url: https://twitter.com/S_Taghinezhad
-    - name: stackoverflow
-      url: https://stackoverflow.com/users/12057440/sajjad-taghinezhad
-    - name: github
-      url: https://github.com/Sajjad-Taghinezhad
+    - name: hackerone
+      url: https://hackerone.com/sajx
+    - name: hackthebox
+      url: https://app.hackthebox.com/users/1358375
     - name: ctftime
       url: https://ctftime.org/user/54082
+    - name: github
+      url: https://github.com/Sajjad-Taghinezhad
     - name: gitlab
       url: https://gitlab.com/Sajjad-Taghinezhad
-    - name: spotify
-      url: https://open.spotify.com/user/2af83tdgmyv7zsbqb657es91g
+    - name: hackerrank
+      url: https://www.hackerrank.com/sajjadx
+    - name: codewars
+      url: https://www.codewars.com/users/SajX
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/12057440/sajjad-taghinezhad
     - name: medium
       url: https://medium.com/@sajx
     - name: telegram
       url: https://sajjad_taghinezhad.t.me
-    - name: hackthebox
-      url: https://app.hackthebox.com/users/1358375
-    - name: hackerrank
-      url: https://www.hackerrank.com/sajjadx
-    - name: hackerone
-      url: https://hackerone.com/sajx
-    - name: instagram
-      url: https://instagram.com/sajjad.taghinezhad/
     - name: linkedin
       url: https://www.linkedin.com/in/sajjad-taghinezhad/
-    - name: codewars
-      url: https://www.codewars.com/users/SajX
-    # - name: discord
-    #   url: discord://sajx.net
-    # - name: paypal
-    #   url: 
-    # - name: youtube
+    - name: instagram
+      url: https://instagram.com/sajjad.taghinezhad/
+    - name: twitter
+      url: https://twitter.com/S_Taghinezhad
+    - name: spotify
+      url: https://open.spotify.com/user/2af83tdgmyv7zsbqb657es91g
 
