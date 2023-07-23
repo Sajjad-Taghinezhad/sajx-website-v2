@@ -12,10 +12,10 @@ minify:
 menu:
     main:
     - name: Blog
-      url: /blog
+      url: https://blog.sajx.net
       weight: 10
-    - name: Tools 
-      url: https://tools.sajx.net
+    - name: Projects 
+      url: https://projects.sajx.net
 
 params:
   title: SajX.Net
