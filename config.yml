@@ -9,6 +9,14 @@ minify:
   disableXML: true
   minifyOutput: true
 
+menu:
+    main:
+    - name: Blog
+      url: https://blog.sajx.net
+      weight: 10
+    - name: Activities 
+      url: https://Activities.sajx.net
+
 params:
   title: SajX.Net
   description: "SajX.Net Personal Website"
@@ -24,6 +32,9 @@ params:
     icon: /logo.png
     iconHeight: 35
 
+
+
+
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
@@ -34,22 +45,37 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile image
+    buttons:
+      - name: Mail me
+        url: mailto:me@sajx.net
 
   socialIcons:
-    - name: twitter
-    - name: stackoverflow
-    - name: github
-    - name: ctftime
-    - name: gitlab
-    - name: reddit
-    - name: spotify
-    - name: medium
-    - name: telegram
-    - name: hackthebox
-    - name: discord
-    - name: hackerrank
     - name: hackerone
+      url: https://hackerone.com/sajx
+    - name: hackthebox
+      url: https://app.hackthebox.com/users/1358375
+    - name: ctftime
+      url: https://ctftime.org/user/54082
+    - name: github
+      url: https://github.com/Sajjad-Taghinezhad
+    - name: gitlab
+      url: https://gitlab.com/Sajjad-Taghinezhad
+    - name: hackerrank
+      url: https://www.hackerrank.com/sajjadx
+    - name: codewars
+      url: https://www.codewars.com/users/SajX
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/12057440/sajjad-taghinezhad
+    - name: medium
+      url: https://medium.com/@sajx
+    - name: telegram
+      url: https://sajjad_taghinezhad.t.me
+    - name: linkedin
+      url: https://www.linkedin.com/in/sajjad-taghinezhad/
     - name: instagram
-    - name: paypal
-    - name: youtube
+      url: https://instagram.com/sajjad.taghinezhad/
+    - name: twitter
+      url: https://twitter.com/S_Taghinezhad
+    - name: spotify
+      url: https://open.spotify.com/user/2af83tdgmyv7zsbqb657es91g
 
