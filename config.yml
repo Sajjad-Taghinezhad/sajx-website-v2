@@ -14,8 +14,8 @@ menu:
     - name: Blog
       url: https://blog.sajx.net
       weight: 10
-    - name: Projects 
-      url: https://projects.sajx.net
+    - name: Activities 
+      url: https://Activities.sajx.net
 
 params:
   title: SajX.Net
